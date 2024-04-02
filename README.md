@@ -1,8 +1,6 @@
-## Mwoon0022
+### Mwoon0022
+Just someone trying to code stuff for mons and fun
 
-Hi
-
-- discord: Mwoon#4686
+- discord: mwoon1
 - replit: Maven0022
 
-Bye
